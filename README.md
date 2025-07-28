@@ -29,7 +29,8 @@ The point of the server is not to strictly recreate era difficulty; think of Rhe
 ## How To Play
 
 -	Install the client with [Lutris](https://lutris.net/games/final-fantasy-xi-online/) on Linux. Windows users can download it [here](http://www.playonline.com/ff11us/download/media/install_win.html).
-    - Your client must be up to date; you must therefore maintain an active service account to play on Rheinland-Pfalz. Only the retail client will work.
+    - Your client must be up to date; you can sign up for a [free trial](https://na.store.square-enix-games.com/final-fantasy_-xi_-free-trial---digital) to get an updated client if you do not already have a retail account.
+    - It is encouraged to maintain an active service account to play on the server, though not required.
 
 -	Connect to the server address <b>shadowhare.org</b> using [Ashita](https://ashitaxi.com/). If you need help connecting to a private server using Ashita, use [this guide](https://nocturnalsouls.net/__arch_i_ve_d/getting-setup/setup-ashita/).
     -  You will need to edit Ashita's configuration to point to the LSB version of xiloader instead of the default bootloader; you can get it from the LSB xiloader [Releases page](https://github.com/LandSandBoat/xiloader/releases).
@@ -51,4 +52,8 @@ The point of the server is not to strictly recreate era difficulty; think of Rhe
 - [MountMuzzle](https://github.com/Sjshovan/Ashita-MountMuzzle)
 - [timestamp](https://docsv3.ashitaxi.com/addons/timestamp/)
 
-Join the [FFXiPrivateServers](https://discord.gg/THnWnC9fjr) discord server for information on private servers, LandSandBoat development, client setup for Windows & Linux etc.
+## Community
+
+Join the official [Rheinland-Pfalz discord](https://discord.gg/NaC6dfVq) for server updates, support, guides and more.
+
+Join the [FFXiPrivateServers discord](https://discord.gg/THnWnC9fjr) server for information on LandSandBoat development and other private servers.
