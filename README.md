@@ -38,6 +38,8 @@ The point of the server is not to strictly recreate era difficulty; think of Rhe
     <p align="left">
     <img src="lutris-setup.png" width=60%>     
 
+-    Optional: Overwrite Default.txt in the Ashita/scripts directory with the server's [recommended settings](https://github.com/claybie/rheinland-pfalz/tree/master/Ashita/scripts/Default.txt), to autoload and configure the addons & plugins listed below (note "/blockmouse" will disable your mouse and is for playing with a controller).
+
 ## Very Highly Recommended Mods
 -	[XI View 2.0](https://github.com/KenshiDRK/XiView)
 -	[AshenbubsHD Texture Pack](https://www.nexusmods.com/finalfantasy11/mods/1)
