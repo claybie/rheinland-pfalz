@@ -14,11 +14,11 @@
 
 -   Modern elements & enhancements
     - Trusts are enabled, acquired directly as spells from missions/quests
-        - Several implemented, more planned
+        - Several implemented as of 2026, more planned
     - Most other aspects are modern (loot tables, drop rates, movement speed, etc.)
-    - Skills for Weapons & Magic always capped (skillup system for crafting only)
+    - Skills for Weapons & Magic always capped for your level (skillup system for crafting only)
 
-The point of the server is not to strictly recreate era difficulty; think of Rheinland-Pfalz as era if era could be soloed. 
+The point of the server is to recreate the era *feel*, but for low-man or solo play (though server hardware supports hundreds of concurrent players.) 
 
 ## Server Rules
 
@@ -56,6 +56,6 @@ The point of the server is not to strictly recreate era difficulty; think of Rhe
 
 ## Community
 
-Join the official [Rheinland-Pfalz discord](https://discord.gg/NaC6dfVq) for server updates, support, guides and more.
+Join the official [Rheinland-Pfalz discord](https://discord.gg/BWBhVq9hKB) for server updates, support, guides and more.
 
 Join the [FFXiPrivateServers discord](https://discord.gg/THnWnC9fjr) server for information on LandSandBoat development and other private servers.
