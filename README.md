@@ -9,7 +9,7 @@
     - Level 75 cap, content through WotG
     - Era-ish exp rate (half modern retail) and fame rate
     - pre-2005 exp table (much more exp required for levels 51-75)
-    - Homepoint warping disabled, no Survival Guides/FoV/GoV
+    - Homepoint warping disabled, no Survival Guides/FoV/GoV/caskets
     - Original level caps in place for BCNM Missions & CoP
 
 -   Modern elements & enhancements
@@ -33,10 +33,10 @@ The point of the server is to recreate the era *feel*, but for low-man or solo p
     - It is encouraged to maintain an active service account to play on the server, though not required.
 
 -	Connect to the server address <b>shadowhare.org</b> using [Ashita](https://ashitaxi.com/). If you need help connecting to a private server using Ashita, use [this guide](https://nocturnalsouls.net/__arch_i_ve_d/getting-setup/setup-ashita/).
-    -  You will need to edit Ashita's configuration to point to the LSB version of xiloader instead of the default bootloader; you can get it from the LSB xiloader [Releases page](https://github.com/LandSandBoat/xiloader/releases).
+    -  You will need to edit Ashita's configuration to point to the LSB version of xiloader instead of the default bootloader; you can get it from the LSB xiloader [releases page](https://github.com/LandSandBoat/xiloader/releases).
     -  If you are playing with Lutris on Linux, you will need to configure the game options to point to the "injector.exe" executable, and add the name of your Ashita config xml file to "Arguments": 
-    <p align="left">
-    <img src="lutris-setup.png" width=60%>     
+       <p align="left">
+       <img src="lutris-setup.png" width=60%>     
 
 -    Optional: Overwrite Default.txt in the Ashita/scripts directory with the server's [recommended settings](https://github.com/claybie/rheinland-pfalz/tree/master/Ashita/scripts/Default.txt), to autoload and configure the addons & plugins listed below (note "/blockmouse" will disable your mouse and is for playing with a controller).
 
